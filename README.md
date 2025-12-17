@@ -15,4 +15,4 @@ Here are some repositories you can check out to see my work.
 ### Battleship Game
   A classic Battleship game implemented in Python with a graphical interface, focusing on game logic, object-oriented concepts, and user interaction. A personal project developed in 2020 in collaboration with a friend. 
 
-(more to come...)
+_(more to come...)_
